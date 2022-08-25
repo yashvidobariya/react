@@ -1,0 +1,110 @@
+{
+  "product": [
+    {
+      "title": "google pixel",
+      "price": "40,0000",
+      "description": "its a very attractive phone",
+      "id": 8
+    },
+    {
+      "title": "iphone",
+      "price": "51,000",
+      "description": "its a apple products",
+      "id": 10
+    },
+    {
+      "title": "LG",
+      "price": "30,0000",
+      "description": "ITS A GOOD PRODUCT",
+      "id": 11
+    },
+    {
+      "title": "vivo",
+      "price": "12,000",
+      "description": "vivo product",
+      "id": 12
+    },
+    {
+      "title": "oppo",
+      "price": "20,000",
+      "description": "oppo product",
+      "id": 13
+    },
+    {
+      "title": "motarola",
+      "price": "25,000",
+      "description": "motarola product",
+      "id": 14
+    },
+    {
+      "title": "one plus",
+      "price": "30,0000",
+      "description": "one plus product",
+      "id": 15
+    },
+    {
+      "title": "mi",
+      "price": "23,000",
+      "description": "mi product",
+      "id": 16
+    },
+    {
+      "title": "Realme",
+      "price": "17,000",
+      "description": "realme product",
+      "id": 17
+    },
+    {
+      "title": "nothing",
+      "price": "54,000",
+      "description": "nothing product",
+      "id": 18
+    },
+    {
+      "title": "Nokia",
+      "price": "10,000",
+      "description": "Nokia product",
+      "id": 19
+    }
+  ],
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": 123,
+      "id": 1,
+      "role_id": 1
+    },
+    {
+      "name": "yashvidobariya",
+      "email": "yashvidobariya6@gmail.com",
+      "password": "12345",
+      "role_id": 2,
+      "id": 2
+    },
+    {
+      "name": "rency",
+      "email": "rency@gmail.com",
+      "password": "123",
+      "role_id": 2,
+      "id": 35
+    },
+    {
+      "name": "krish",
+      "email": "krish@gmail.com",
+      "password": "12345",
+      "role_id": 2,
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
